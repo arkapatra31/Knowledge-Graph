@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "price": 1299,
+    "description": "The ultimate smartphone with a powerful A17 Bionic chip and ProMotion display.",
+    "image": "https://example.com/iphone15promax.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "price": 1199,
+    "description": "A premium smartphone with a stunning display and advanced camera system.",
+    "image": "https://example.com/galaxys24ultra.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 14",
+    "brand": "Apple",
+    "category": "Laptop",
+    "price": 1999,
+    "description": "A powerful laptop for professionals, featuring the M2 Pro chip.",
+    "image": "https://example.com/macbookpro14.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "category": "Laptop",
+    "price": 1299,
+    "description": "A sleek and portable laptop with a stunning display.",
+    "image": "https://example.com/dellxps13.jpg"
+  },
+  {
+    "id": 5,
+    "name": "PlayStation 5",
+    "brand": "Sony",
+    "category": "Gaming Console",
+    "price": 499,
+    "description": "The next-gen gaming console with stunning graphics and immersive gameplay.",
+    "image": "https://example.com/ps5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "category": "Gaming Console",
+    "price": 499,
+    "description": "A powerful gaming console with 4K gaming and quick resume.",
+    "image": "https://example.com/xboxseriesx.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "category": "Gaming Console",
+    "price": 349,
+    "description": "A portable gaming console with a vibrant OLED display.",
+    "image": "https://example.com/nintendoswitcholed.jpg"
+  },
+  {
+    "id": 8,
+    "name": "AirPods Pro (2nd Generation)",
+    "brand": "Apple",
+    "category": "Audio",
+    "price": 249,
+    "description": "Premium wireless earbuds with active noise cancellation and spatial audio.",
+    "image": "https://example.com/airpodspro2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 399,
+    "description": "High-quality wireless headphones with industry-leading noise cancellation.",
+    "image": "https://example.com/wh1000xm5.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 8",
+    "brand": "Apple",
+    "category": "Wearable",
+    "price": 399,
+    "description": "A versatile smartwatch with advanced health tracking features.",
+    "image": "https://example.com/applewatch8.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "brand": "Samsung",
+    "category": "Wearable",
+    "price": 399,
+    "description": "A stylish smartwatch with long battery life and advanced features.",
+    "image": "https://example.com/galaxywatch6classic.jpg"
+  },
+  {
+    "id": 12,
+    "name": "LG OLED C3 Series",
+    "brand": "LG",
+    "category": "TV",
+    "price": 1499,
+    "description": "A stunning OLED TV with perfect black levels and vibrant colors.",
+    "image": "https://example.com/lgc3series.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sony Bravia XR A95K",
+    "brand": "Sony",
+    "category": "TV",
+    "price": 2499,
+    "description": "A premium TV with Cognitive Processor XR for stunning visuals and immersive sound.",
+    "image": "https://example.com/braviaxa95k.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Nikon Z9",
+    "brand": "Nikon",
+    "category": "Camera",
+    "price": 5999,
+    "description": "A professional-grade mirrorless camera with incredible image quality and speed.",
+    "image": "https://example.com/nikonZ9.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Canon EOS R5",
+    "brand": "Canon",
+    "category": "Camera",
+    "price": 3999,
+    "description": "A versatile full-frame mirrorless camera with 8K video recording.",
+    "image": "https://example.com/canonEOSR5.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Apple iPad Pro 12.9-inch (2022)",
+    "brand": "Apple",
+    "category": "Tablet",
+    "price": 1099,
+    "description": "A powerful tablet for creative professionals, featuring the M2 chip.",
+    "image": "https://example.com/ipadpro12.9.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Samsung Galaxy Tab S8 Ultra",
+    "brand": "Samsung",
+    "category": "Tablet",
+    "price": 1099,
+    "description": "A large-screen tablet with a stunning display and S Pen support.",
+    "image": "https://example.com/galaxys8ultra.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Dyson Air Purifier Hot+Cool",
+    "brand": "Dyson",
+    "category": "Home Appliance",
+    "price": 599,
+    "description": "A powerful air purifier that also heats and cools your room.",
+    "image": "https://example.com/dysonairpurifier.jpg"
+  },
+  {
+    "id": 19,
+    "name": "iRobot Roomba j7+",
+    "brand": "iRobot",
+    "category": "Home Appliance",
+    "price": 799,
+    "description": "A smart robot vacuum that avoids obstacles and empties itself.",
+    "image": "https://example.com/irobotroombaj7.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Instant Pot Duo Nova",
+    "brand": "Instant Pot",
+    "category": "Kitchen Appliance",
+    "price": 149,
+    "description": "A versatile pressure cooker, slow cooker, and more.",
+    "image": "https://example.com/instantpotduonova.jpg"
+  }
+]
